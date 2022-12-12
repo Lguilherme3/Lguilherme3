@@ -1,4 +1,4 @@
-### Oláá, eu sou Luiz Guilherme.
+### Olá, eu sou Luiz Guilherme.
 
 - 🔭 Atualmente não trabalho na área de programação, mas estou migrando.
 - 🌱 Estou estudando JavaScript, HTML E CSS, e cursando ensino superior em Análise e Desenvolvimento de Sistemas.
